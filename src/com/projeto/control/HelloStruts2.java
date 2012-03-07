@@ -8,7 +8,7 @@ public class HelloStruts2 extends ActionSupport  {
 	private String _name;
 	
 	public HelloStruts2() { 
-		
+		 
 	}
 	
 	@Override
